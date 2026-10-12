@@ -1,0 +1,6 @@
+{
+  "name": "CineNLP - Gensim & Flask Film Tavsiye Motoru",
+  "description": "Doğal Dil İşleme (Gensim TF-IDF & Cosine Similarity) tabanlı Türkçe film konu özeti tavsiye sistemi, canlı test arayüzü ve eksiksiz Python/Flask proje dosyaları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
